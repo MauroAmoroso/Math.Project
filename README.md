@@ -1,4 +1,7 @@
 Ho iniziato da questo codice python creato da me e poi GPT ha creato il sito HTML+CSS+JS:
+
+
+
 while True: 
     # Inizializzazione della variabile Choice
     Choice = 0 
