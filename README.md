@@ -1,7 +1,4 @@
-Ho iniziato da questo codice python creato da me e poi GPT ha creato il sito HTML+CSS+JS:
-
-
-
+#ho iniziato da questocodice python per poi convertirlo in un sito web
 while True: 
     # Inizializzazione della variabile Choice
     Choice = 0 
